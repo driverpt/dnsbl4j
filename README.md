@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/driverpt/rblcheck4j.svg?branch=master)](https://travis-ci.org/driverpt/rblcheck4j)
+
 RBLCheck4j
 =========
 rblcheck4j is a Java Framework implementation for DNSBL querying.
