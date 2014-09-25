@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/driverpt/rblcheck4j.svg?branch=master)](https://travis-ci.org/driverpt/rblcheck4j)
+[![Coverage Status](https://img.shields.io/coveralls/driverpt/rblcheck4j.svg)](https://coveralls.io/r/driverpt/rblcheck4j)
 
 RBLCheck4j
 =========
