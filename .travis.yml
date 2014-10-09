@@ -1,3 +1,10 @@
 language: java
 jdk:
   - oraclejdk7
+
+env:
+  global:
+    - secure "mAVxpf7hbR+LQveoHWYbRn3DFx2LTZBDgsmiw568BVIYVDqzuDn/iAjNaz7uQGm4EhfS7exYt5E4gWunecL0tx7KoJoNDVHfMMl/l2O139x/LTmkfj8UXdjXJ6qQxLz0ngejK2RirEZIjwpUUut3RgJiNxHt/UQp9O2VfW7eg9g="
+
+after_success:
+  - mvn clean cobertura:cobertura coveralls:cobertura
