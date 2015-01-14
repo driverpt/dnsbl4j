@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/driverpt/rblcheck4j.png?label=ready&title=Ready)](https://waffle.io/driverpt/rblcheck4j)
 [![Build Status](https://travis-ci.org/driverpt/rblcheck4j.svg?branch=master)](https://travis-ci.org/driverpt/rblcheck4j)
 [![Coverage Status](https://img.shields.io/coveralls/driverpt/rblcheck4j.svg)](https://coveralls.io/r/driverpt/rblcheck4j)
 
