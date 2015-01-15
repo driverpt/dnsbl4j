@@ -1,10 +1,10 @@
-[![Stories in Ready](https://badge.waffle.io/driverpt/rblcheck4j.png?label=ready&title=Ready)](https://waffle.io/driverpt/rblcheck4j)
-[![Build Status](https://travis-ci.org/driverpt/rblcheck4j.svg?branch=master)](https://travis-ci.org/driverpt/rblcheck4j)
-[![Coverage Status](https://img.shields.io/coveralls/driverpt/rblcheck4j.svg)](https://coveralls.io/r/driverpt/rblcheck4j)
+[![Stories in Ready](https://badge.waffle.io/driverpt/dnsbl4j.png?label=ready&title=Ready)](https://waffle.io/driverpt/dnsbl4j)
+[![Build Status](https://travis-ci.org/driverpt/dnsbl4j.svg?branch=master)](https://travis-ci.org/driverpt/dnsbl4j)
+[![Coverage Status](https://img.shields.io/coveralls/driverpt/dnsbl4j.svg)](https://coveralls.io/r/driverpt/dnsbl4j)
 
-RBLCheck4j
+DNSBL4j (former RBLCheck4j)
 =========
-rblcheck4j is a Java Framework implementation for DNSBL querying.
+dnsbl4j is a Java Framework implementation for DNSBL querying.
 
 Usage
 ----
