@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.luisduarte</groupId>
-    <artifactId>rblcheck4j</artifactId>
+    <artifactId>dnsbl4j</artifactId>
     <version>0.1</version>
     <licenses>
         <license>
@@ -29,7 +29,7 @@
     </properties>
 
     <scm>
-        <url>https://github.com/driverpt/rblcheck4j</url>
+        <url>https://github.com/driverpt/dnsbl4j</url>
     </scm>
 
     <dependencies>
